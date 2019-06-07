@@ -1,0 +1,59 @@
+ [
+      { 
+      id: "box-camicado", 
+      link: 'https://www.pontoslivelo.com.br/compreepontue/camicado', 
+      title: 'Camicado', 
+      logo: 'https://static.pontoslivelo.com.br/content/img/parceiros-de-pontos/181019/logo-camicado-181019.jpg', 
+      url_iframe: 'https://www.pages02.net/livelo/lp_ofertasdinamicasOCA_V3_compreepontue?paridade_parceiro=14' , sub_title: 'www.camicado.com.br/b2b/livelo',
+      link_coalizao: 'https://www.pontoslivelo.com.br/compreepontue/camicado'
+      },
+      { 
+      id: "box-movida", 
+      link: 'https://www.pontoslivelo.com.br/compreepontue/movida', 
+      title: 'Movida', 
+      logo: 'https://static.pontoslivelo.com.br/content/img/Canais/20180102/Content/movida_logo_final.png', 
+      url_iframe: 'https://www.pages02.net/livelo/lp_ofertasdinamicasOCA_V3_compreepontue?paridade_parceiro=11' , sub_title: 'https://parcerias.movida.com.br/livelo',
+      link_coalizao: 'https://www.pontoslivelo.com.br/compreepontue/movida'
+      },
+      { 
+      id: "box-magalu", 
+      link: 'https://www.pontoslivelo.com.br/compreepontue/magazineluiza', 
+      title: 'Magazine Luiza', 
+      logo: 'https://static.pontoslivelo.com.br/content/img/Canais/190405/logoMagalu_comprePontue_cor.png', 
+      url_iframe: 'https://www.pages02.net/livelo/lp_ofertasdinamicasOCA_V3_compreepontue?paridade_parceiro=1' , sub_title: 'https://clube.magazineluiza.com.br/livelo',
+      link_coalizao: 'https://www.pontoslivelo.com.br/compreepontue/magazineluiza'
+      },
+      { 
+      id: "box-fast", 
+      link: 'https://www.pontoslivelo.com.br/compreepontue/fastshop', 
+      title: 'Fast Shop', 
+      logo: 'https://static.pontoslivelo.com.br/content/img/parceiros-de-pontos/fast-logo.png', 
+      url_iframe: 'https://www.pages02.net/livelo/lp_ofertasdinamicasOCA_V3_compreepontue?paridade_parceiro=6' , sub_title: 'www.fastshop.com.br/livelo',
+      link_coalizao: 'https://www.pontoslivelo.com.br/compreepontue/fastshop'
+      },
+      { 
+      id: "box-amaro", 
+      link: 'https://www.pontoslivelo.com.br/compreepontue/amaro', 
+      title: 'Amaro', 
+      logo: 'https://static.pontoslivelo.com.br/content/img/Canais/amaro/1500x656_logo_amaro_url_black_02.png', 
+      url_iframe: 'https://www.pages02.net/livelo/lp_ofertasdinamicasOCA_V3_compreepontue?paridade_parceiro=41' , sub_title: 'https://amaro.com/livelo',
+      link_coalizao: 'https://www.pontoslivelo.com.br/compreepontue/amaro'
+      },
+      { 
+      id: "box-zarpo", 
+      link: 'https://www.pontoslivelo.com.br/compreepontue/zarpo', 
+      title: 'Zarpo', 
+      logo: 'https://static.pontoslivelo.com.br/content/img/parceiros-de-pontos/zarpo-logo.png', 
+      url_iframe: 'https://www.pages02.net/livelo/lp_ofertasdinamicasOCA_V3_compreepontue?paridade_parceiro=22' , sub_title: 'www.zarpo.com.br/livelo',
+      link_coalizao: 'https://www.pontoslivelo.com.br/compreepontue/zarpo'
+      },
+      { 
+      id: "box-zarpo", 
+      link: 'https://www.pontoslivelo.com.br/compreepontue/zarpo', 
+      title: 'Zarpo', 
+      logo: 'https://static.pontoslivelo.com.br/content/img/parceiros-de-pontos/zarpo-logo.png', 
+      url_iframe: 'https://www.pages02.net/livelo/lp_ofertasdinamicasOCA_V3_compreepontue?paridade_parceiro=22' , sub_title: 'www.zarpo.com.br/livelo',
+      link_coalizao: 'https://www.pontoslivelo.com.br/compreepontue/zarpo'
+      }
+    
+    ]
