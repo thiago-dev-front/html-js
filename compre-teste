@@ -17,8 +17,8 @@
 
     "id": "compre-sephora",
     "title": "Sephora",
-    "logo_vitrine": "https://r1.sephora.com.br/resize/catalog/product/1/-/1-million-30ml_500x500_2.jpg",
-    "logo_parceiro": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/logo-sephora-preto.jpg",
+    "logo_vitrine": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Img-Sephora.png",
+    "logo_parceiro": "https://static.pontoslivelo.com.br/content/img/Canais/20180801/Logo-Sephora.png",
     "paridade": 7,
     "pontos": "pontos",
     "valor": "R$1,00",
